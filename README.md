@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**Rishu-2206/Rishu-2206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rishabh Pandey 👋
 
-Here are some ideas to get you started:
+### Software Developer | Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Developer with hands-on internship experience in building and maintaining web applications.
+
+### 💻 Technical Skills
+- Languages: C#, Java, JavaScript, Python
+- Backend: ASP.NET Core, Node.js, REST APIs
+- Frontend: React.js, HTML, CSS
+- Database: SQL Server, MySQL, MongoDB
+- Tools: Git, GitHub, Postman, Visual Studio
+
+### 🚀 Currently Working On
+- Full Stack Web Development
+- Backend Development
+- API Design and Integration
+
+### 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/rishabhpandey2006
+- Email: rishabhpandey106@gmail.com
